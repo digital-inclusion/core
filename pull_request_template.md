@@ -1,0 +1,9 @@
+Resolves Issue: #
+
+List of changes:
+- …
+- …
+
+Testing environment URL: …
+
+- [ ] User Acceptance Testing _UAT_ successfully completed
