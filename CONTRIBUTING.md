@@ -1,8 +1,12 @@
 # Digital Inclusion – Contribution Guidelines
 
-## How do I make a contribution?
+We think that it is great that you want to contribute. Never made an open source contribution before? Wondering how contributions work in the in our project? Here are a few tips to help you get started!
 
-Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown!
+## Issues
+
+There should be an Issue for all the work done on this project.
+
+## Step by step instructions
 
 1. Find an **Issue** that you are interested in addressing or a feature that you would like to add. Note the Issue number, e.g. #1.
 2. Fork the repository associated with the issue to your local GitHub organization. This means that you will have a copy of the repository under `your-GitHub-username/repository-name`.
