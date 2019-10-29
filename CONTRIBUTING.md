@@ -4,7 +4,11 @@ We think that it is great that you want to contribute. Never made an open source
 
 ## Issues
 
-There should be an Issue for all the work done on this project.
+There should be an Issue for all the work done on this project. If you want to contribute, please find an appropriate Issue first. You can find them in the Issues tab or on the Project Board.
+
+## Project Board
+
+[The project board on Github](https://github.com/digital-inclusion/core/projects/1) is where we manage the workflow, in Kanban methodology. Make sure you only have one Issue In Progress! :)
 
 ## Step by step instructions
 
@@ -25,4 +29,4 @@ There should be an Issue for all the work done on this project.
 
 ## Where can I go for help?
 
-If you need help, you can ask questions on our Slack `digitalinclusion.slack.com`
+If you need help, you can ask questions on our Slack `digitalinclusion-hq.slack.com`
