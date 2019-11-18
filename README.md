@@ -11,7 +11,7 @@ A community project to facilitate events for leveling digital workplace skills a
 ## Upcoming events:
 
 1. JSPoland Conference, Warsaw 22.11.2019
-2. Toptal Community Meetup, Warsaw 5.10.2019
+2. Toptal Community Meetup, Warsaw 3.12.2019
 3. Remote Community Meetup, Żyrardów 10.12.2019
 
 ## Initial Goals
