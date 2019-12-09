@@ -19,6 +19,6 @@ You can partner with the community if you can bring value to the target group, t
 - sponsor work via [Gitcoin](https://gitcoin.co/),
 - spread the word about the project!
 
-## Slack
+## Slack community (chat)
 
-Join our Slack: `digitalinclusion-hq.slack.com`.
+Join our Slack community: <digitalinclusion-hq.slack.com>.
