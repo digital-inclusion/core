@@ -21,4 +21,4 @@ You can partner with the community if you can bring value to the target group, t
 
 ## Slack community (chat)
 
-Join our Slack community: <digitalinclusion-hq.slack.com>.
+Join our Slack community: [digitalinclusion-hq.slack.com](digitalinclusion-hq.slack.com).
